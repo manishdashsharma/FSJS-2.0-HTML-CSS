@@ -1,0 +1,54 @@
+h1{}
+h2{}
+a tag : a{}
+emb <tab>
+a black tag , target 
+link <tab> css
+meta tag using <tab>
+
+.center gives a div class by default
+ex: <div class="center"></div>
+
+h3.pink will give class
+ex: <h3 class="pink"></h3>
+
+h3.pink will give id 
+ex: <h3 id="pink"></h3>
+
+h4#center.pink will give an id and a class
+ex: <h4 id="center" class="pink"></h4>
+
+btn for button
+
+input emete
+
+ul>li*4 
+ex:   <ul>
+        <li>one</li>
+        <li>two</li>
+        <li>three</li>
+    </ul>
+
+div+p+h3(+)
+ex: 
+    <div></div>
+    <p></p>
+    <h3></h3>
+
+div>(header>ul>li*3>a)+(footer>p)
+ex:
+<div>
+        <header>
+            <ul>
+                <li><a href=""></a></li>
+                <li><a href=""></a></li>
+                <li><a href=""></a></li>
+            </ul>
+        </header>
+        <footer>
+            <p></p>
+        </footer>
+    </div>
+
+mt : margine
+pad :padding
