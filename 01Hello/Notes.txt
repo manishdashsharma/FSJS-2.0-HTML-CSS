@@ -1,0 +1,6 @@
+-------------------------------------class 1--------------------------------------------
+
+Requirements to start the cource :
+
+1.colorzilla chrome extension(installed)
+2.uicolorpicker
